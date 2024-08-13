@@ -1,1 +1,8 @@
 streamlit
+pandas
+matplotlib
+seaborn
+nltk
+gensim
+stopwordsiso
+wordcloud

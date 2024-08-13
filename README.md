@@ -1,8 +1,8 @@
-# 🎈 Blank app template
+# DiRA: Disaster Response Assistance
 
-A simple Streamlit app template for you to modify!
+A Decision Support System for better Disaster Response Management.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open DiRA Website](https://disaster-response-assistance.streamlit.app/)]
 
 ### How to run it on your own machine
 
@@ -17,3 +17,25 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+3. Upload a CSV file for analysis.
+
+### What files can you upload?
+
+1. Your CSV file should contain the following two columns:
+   ```
+   text: This column should include the full text of each tweet.
+   ```
+   ```
+   date: This column should specify the date when the tweet was created.
+   ```
+
+2. Sample CSV file format:
+   
+   ![Example Image](images/sample.png)
+
+3. Here are also datasets you can upload for testing.
+   ```
+   insert drive link here
+   ```
+    
