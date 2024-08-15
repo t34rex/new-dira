@@ -166,7 +166,7 @@ if uploaded_file is not None:
 
                 # statistics
                 stats_df = results_df.groupby(['Disaster Type', 'Needs']).size().reset_index(name='Count')
-                st.subheader("statistics of needs by disaster type")
+                st.subheader("Statistics of Needs by Disaster Type")
                 st.write(stats_df)
 
                 st.subheader("Pie Chart of Distribution of Needs in Disasters")
