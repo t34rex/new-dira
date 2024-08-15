@@ -2,7 +2,7 @@
 
 A Decision Support System for better Disaster Response Management.
 
-[![Open DiRA Website](https://disaster-response-assistance.streamlit.app/)]
+[[Open DiRA Website](https://disaster-response-assistance.streamlit.app/)]
 
 ### How to run it on your own machine
 
