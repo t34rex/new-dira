@@ -6,7 +6,6 @@ from math import pi
 import nltk
 import string
 import re
-import gensim
 from gensim import corpora
 from gensim.models import LdaModel
 from stopwordsiso import stopwords

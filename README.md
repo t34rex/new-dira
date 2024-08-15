@@ -34,8 +34,7 @@ A Decision Support System for better Disaster Response Management.
    
    ![Example Image](images/sample.png)
 
-3. Here are also datasets you can upload for testing.
+3. Here is a sample dataset you can upload for testing.
    ```
-   insert drive link here
+   Link to drive folder: https://drive.google.com/drive/folders/1bhBApSiFr7cixBO_Rn_9aIwx0KrkgGsx?usp=sharing
    ```
-    
